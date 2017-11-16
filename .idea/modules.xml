@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyGitFromStart.iml" filepath="$PROJECT_DIR$/MyGitFromStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gitApp1.iml" filepath="$PROJECT_DIR$/gitApp1.iml" />
+      <module fileurl="file://F:\GitHub\Android\MyGitFromStart\app\app.iml" filepath="F:\GitHub\Android\MyGitFromStart\app\app.iml" />
+      <module fileurl="file://F:\GitHub\Android\MyGitFromStart\gitApp1.iml" filepath="F:\GitHub\Android\MyGitFromStart\gitApp1.iml" />
     </modules>
   </component>
 </project>
